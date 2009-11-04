@@ -1,0 +1,9 @@
+[submodule "deps/mojo"]
+	path = deps/mojo
+	url = git://github.com/kraih/mojo
+[submodule "deps/protocol-openid"]
+	path = deps/protocol-openid
+	url = git://github.com/vti/protocol-openid
+[submodule "deps/protocol-yadis"]
+	path = deps/protocol-yadis
+	url = git://github.com/vti/protocol-yadis
